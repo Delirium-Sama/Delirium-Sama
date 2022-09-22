@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Delirium-Sama
-- 👀 I’m interested in API and Snipe it
+- 👀 I’m interested in API and Snipe it, i want to learn how to use powershell
 - 🌱 I’m currently learning how to use it prductivly 
 - 💞️ I’m looking to collaborate on snipe it and all microsoft stuff (Azure, Power app...)
 - 📫 How to reach me dguerard-rheaume@canatal.net
